@@ -1,5 +1,5 @@
 ---
-title: Home
+title: OS2valghalla Wiki
 layout: home
 ---
 
